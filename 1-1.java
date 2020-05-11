@@ -1,6 +1,6 @@
 // 画面への出力を行うプログラム
 
-class Hello{
+class Hello {
 
   public static void main(String[] args) {
     System.out.println("初めてのJavaaaaaプログラム。");
@@ -10,3 +10,5 @@ class Hello{
 
 // フォルダ直下でjavacしたクラスファイルでないと
 // コンパイル後に実行できない
+
+// ;がないとコンパイルエラーになる
